@@ -1,0 +1,2 @@
+# Intentionally empty. Cloudflare Pages serves slug/index.html at /slug/ natively.
+# Add only genuine cross-domain or legacy-path redirects here.
